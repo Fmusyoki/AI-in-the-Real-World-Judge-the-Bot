@@ -1,1 +1,14 @@
 
+# Scenario 1: The Hiring Bot
+A company uses an AI system to filter through job applications. On paper, it’s supposed to save time and pick the “best” candidates. But in practice, it often rejects women who have career gaps (like maternity leave).
+Issue:
+•	Biasness - The AI is unfairly penalizing women for something normal and valid.
+Fix:
+Retrain the AI on more balanced data that includes applicants with diverse career paths. Add a human review step so no one is automatically rejected just for a gap in their CV.
+
+# Scenario 2: The School Proctoring AI
+Schools use an AI tool during online exams. It flags students as “cheating” if their eyes move around too much. The problem? Neurodivergent students (like those with ADHD or autism) often get flagged unfairly.
+Issue:
+•	Fairness – The AI tool disproportionately harms neurodivergent students.
+Fix:
+Instead of relying only on eye movement, combine multiple signals (like unusual audio, sudden switching screens). Most importantly, make sure flagged cases are reviewed by a human teacher before any punishment.
